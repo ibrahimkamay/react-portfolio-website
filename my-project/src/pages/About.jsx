@@ -24,18 +24,17 @@ const About = () => {
                 <TbAwardFilled className="text-3xl" />
                 <h3 className="font-semibold mt-1">Deneyim</h3>
                 <p>
-                  2+ years
+                  1+ years
                   <br />
-                  Frontend Development
+                  Frontend Development & Graphic Designer
                 </p>
               </div>
               <div className="p-6 flex-1 w-96 text-center flex flex-col items-center rounded-3xl border border-[#a3a3a3]">
                 <GiGraduateCap className="text-3xl" />
                 <h3 className="font-semibold mt-1">Eğitim</h3>
                 <p>
-                  2+ years
-                  <br />
-                  Frontend Development
+                  Bachelors Degree <br />
+                  Bachelors Degree
                 </p>
               </div>
             </div>
